@@ -7,5 +7,9 @@
   },
   "author": "Aryan",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1"
+  }
 }
